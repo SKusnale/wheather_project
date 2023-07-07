@@ -92,4 +92,4 @@ weather_label = tk.Label(root, text="")
 weather_label.pack()
 
 
-root.mainloop()[env.txt](https://github.com/SKusnale/wheather_project/files/11973359/env.txt)
+root.mainloop()
